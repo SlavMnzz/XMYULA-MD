@@ -5,9 +5,9 @@ import { fileURLToPath } from 'url'
 
 /*========= GLOBAL APIKEY =========*/
 // ISI APIKEY KALIAN DI BAGIAN 'ENTER YOUR APIKEY' SIMBOL JANGAN DI HAPUS
-global.btc = 'Enter your apikey' // apikey Botchax
+global.btc = 'pPcWxX8n' // apikey Botchax
 global.rose = 'Enter your apikey' // apikey Rose
-global.lann = 'Enter your apikey' // apikey Beta
+global.lann = 'HawC9odP' // apikey Beta
 
 
 
@@ -16,12 +16,12 @@ global.lann = 'Enter your apikey' // apikey Beta
 global.APIs = {
   rose: 'https://api.itsrose.rest',
   TioXD: 'https://api.botcahx.eu.org',
-  lann: 'https://api.betabotz.org',
+  lann: 'https://api.betabotz.eu.org',
 } 
 
 global.APIKeys = {
-  'https://api.betabotz.eu.org': 'Enter your apikey',
-  'https://api.botcahx.eu.org': 'Enter your apikey',
+  'https://api.betabotz.eu.org': 'HawC9odP',
+  'https://api.botcahx.eu.org': 'pPcWxX8n',
   'https://api.itsrose.rest': 'Enter your apikey',
 }
 
@@ -30,12 +30,12 @@ global.APIKeys = {
 /*============ NOMOR ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
 global.info = {
-	nomorbot: '62882257504889',
-	nomorown: '6281283516246',
-	namebot: 'Assisten YuLa',
-	nameown: 'Maximus Store',
-	channel: '120363241570452835@newsletter',
-	namechannel: 'YULA | Whatsapp Bots'
+	nomorbot: '62857059457510',
+	nomorown: '19419318284',
+	namebot: '*Droidx - Assistant*',
+	nameown: 'Ferdiix01DBinary',
+	channel: '120363232705577205@newsletter',
+	namechannel: 'Droidx - Assistant | Channels Info'
 }
 
 
@@ -43,38 +43,38 @@ global.info = {
 /*============ OWNER ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
 global.owner = [
-['6281283516246', 'Maximus', 'true'], // Boleh di ganti
-['6281283516246', 'Maximus', 'true'] // Jangan di ganti 
+['19419318284', 'Ferdiix01DBinary', 'true'], // Boleh di ganti
+['19419318284', 'Ferdiix01DBinary', 'true'] // Jangan di ganti 
 ]
 
-global.mods = ['6288225750488'] // Opsional boleh ganti atau tidak 
-global.prems = ['6281283516246', '6288225750488'] // Opsional boleh ganti atau tidak 
+global.mods = ['19419318284'] // Opsional boleh ganti atau tidak 
+global.prems = ['19419318284', '19419318284'] // Opsional boleh ganti atau tidak 
 
 
 
 /*=========== WATERMARK ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.wm = 'ᴀꜱꜱɪꜱᴛᴇɴ ʏᴜʟᴀ 🌐' // Opsional boleh ganti atau tidak 
-global.author = 'XM4ZE' // Opsional boleh ganti atau tidak 
-global.stickpack = 'ᴀꜱꜱɪꜱᴛᴇɴ ʏᴜʟᴀ 🌐' // Opsional boleh ganti atau tidak 
-global.stickauth = 'XM4ZE' // Opsional boleh ganti atau tidak 
+global.wm = '*Droidx - Assistant*' // Opsional boleh ganti atau tidak 
+global.author = '*Droidx - Assistant*' // Opsional boleh ganti atau tidak 
+global.stickpack = '*Droidx - Assistant*' // Opsional boleh ganti atau tidak 
+global.stickauth = '*Ferdiix01DBinary*' // Opsional boleh ganti atau tidak 
 
 
 
 /*=========== TEXT & IMAGE ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.nameown = 'Maximus Store' // Ganti jadi nama kalian
-global.waown = 'wa.me/6281283516246' // ganti nomor tanpa menghilangkan wa.me/
-global.mail = 'maximusstoreindonesia@gmail.com' // boleh taruh email kalian
-global.fb = 'https://facebook.com/maximusstoreindonesia' // boleh taruh link fb kalian
-global.ig = 'https://instagram.com/maximusstore.id' // boleh taruh link ig kalian
-global.gcbot = 'https://whatsapp.com/channel/0029VaL28ZqFSAtCdSU5EX0M' // boleh taruh link group kalian
-global.qris = 'https://telegra.ph/file/f11ccd2ca8a5136aacfb3.jpg' // Wajib isi untuk pembayaran. isi dengan qris
+global.nameown = 'Ferdiix01DBinary' // Ganti jadi nama kalian
+global.waown = 'wa.me/19419318284' // ganti nomor tanpa menghilangkan wa.me/
+global.mail = 'jstmannz@gmail.com' // boleh taruh email kalian
+global.fb = 'https://facebook.com/' // boleh taruh link fb kalian
+global.ig = 'https://instagram.com/ini.frdii' // boleh taruh link ig kalian
+global.gcbot = 'https://chat.whatsapp.com/DRCcukP75vCBjZx8V8ykqw' // boleh taruh link group kalian
+global.qris = 'https://telegra.ph/file/5d1de86824a6d2dd41860.jpg' // Wajib isi untuk pembayaran. isi dengan qris
 global.welcome = 'https://telegra.ph/file/6922e4375c183c8d1cfcb.jpg' // Welcome Group 
 global.leave = 'https://telegra.ph/file/8c7792e78ed015a7d0a59.jpg' // Leave Group
 global.vn = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/KARA.mp3?raw=true' // Allmenu Voice
 global.thumvid = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/Vid_20240220_073653.mp4?raw=true' // Allmenu Video thumbnail
-global.maximus = '' // [OPSIONAL] isi dengan link thumbnail kalian. link ini akan muncul di semua menu dan taruh di tengah-tengah simbol itu
+global.maximus = 'https://telegra.ph/file/356562c2cb1f3bb08cd62.jpg' // [OPSIONAL] isi dengan link thumbnail kalian. link ini akan muncul di semua menu dan taruh di tengah-tengah simbol itu
 
 
 
@@ -100,8 +100,8 @@ global.xmenus = 'https://raw.githubusercontent.com/XM4ZE/DATABASE/master/wallpap
 global.multiplier = 38
 global.wait = '*Starting Processing . . .*'
 global.eror = '*Failed to process . . .*'
-global.maxwarn = '2'
-global.pricelist = '*LIMIT* kamu habis. kamu bisa order akses premium\n\n*PREMIUM USER PRICE LIST*\n\n*3 Day premium*\n- Harga: Rp. 5.000 IDR\n- ID Pesanan: 3day\n\n*7 Day premium*\n- Harga: Rp. 10.000 IDR\n- ID Pesanan: 7day\n\n*30 Day premium*\n- Harga: Rp. 15.000 IDR\n- ID Pesanan: 30day\n\n*60 Day premium*\n- Harga: Rp. 30.000 IDR\n- ID Pesanan: 60day\n\n\n*Example:* .premium <ID Pembayaran>\n*Example:* .premium 30day'
+global.maxwarn = '10'
+global.pricelist = '*LIMIT* kamu habis. kamu bisa order akses premium\n\n*PREMIUM USER PRICE LIST*\n\n*3 Day premium*\n- Harga: Rp. 1.000 IDR\n- ID Pesanan: 3day\n\n*7 Day premium*\n- Harga: Rp. 3.000 IDR\n- ID Pesanan: 7day\n\n*30 Day premium*\n- Harga: Rp. 7.000 IDR\n- ID Pesanan: 30day\n\n*60 Day premium*\n- Harga: Rp. 10.000 IDR\n- ID Pesanan: 60day\n\n\n*Example:* .premium <ID Pembayaran>\n*Example:* .premium 30day'
 
 
 
